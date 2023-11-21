@@ -44,12 +44,13 @@ CSRF_TRUSTED_ORIGINS = [
 * http://127.0.0.1/token/refresh/
 
 ## Как использовать данный проект?
-* Склонировать репозиторий в IDE
+* Склонировать репозиторий в IDE и перейти в проект:
 
-  В терминале ввести команду:
+  В терминале ввести команды:
   ```
   git clone https://github.com/toir02/test-task-softway
-  git clone https://github.com/toir02/test-task-softway
+  cd test-task-softway/
+  ```
 * Установить вирутальное окружение
   В терминале ввести команду:
   ```
